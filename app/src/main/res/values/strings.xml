@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">realtime_object</string>
+    <string name="app_name" translatable="false">realtime_object</string>
+    <string name="image_description" translatable="false">Pose estimation</string>
+    <string name="app_description" translatable="false">Real time object dectetion\nwith\nternsorflow lite</string>
+    <string name="start" translatable="false">Click to start</string>
+
 </resources>

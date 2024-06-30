@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable draft_bottum
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable images
+id btn1
+id btn2
+id btn3
+id imageView
+id main
+id textureView
+layout activity_main
+layout enter_page
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_description
+string app_name
+string image_description
+string start
+style Theme.Realtime_object
+xml backup_rules
+xml data_extraction_rules
